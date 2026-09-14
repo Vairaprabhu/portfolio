@@ -12,7 +12,7 @@ const navItems = [
   { to: '/portfolio', label: 'Work' },
   { to: '/process', label: 'Process' },
   { to: '/contact', label: 'Contact' },
-  { to: '/resume', label: 'Resume' },
+  // { to: '/resume', label: 'Resume' },
 ]
 
 export default function Navbar() {
